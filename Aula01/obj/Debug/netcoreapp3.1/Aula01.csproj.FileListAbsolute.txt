@@ -1,0 +1,14 @@
+C:\projetos\Curso.Roberto\Aula01\bin\Debug\netcoreapp3.1\Aula01.exe
+C:\projetos\Curso.Roberto\Aula01\bin\Debug\netcoreapp3.1\Aula01.deps.json
+C:\projetos\Curso.Roberto\Aula01\bin\Debug\netcoreapp3.1\Aula01.runtimeconfig.json
+C:\projetos\Curso.Roberto\Aula01\bin\Debug\netcoreapp3.1\Aula01.runtimeconfig.dev.json
+C:\projetos\Curso.Roberto\Aula01\bin\Debug\netcoreapp3.1\Aula01.dll
+C:\projetos\Curso.Roberto\Aula01\bin\Debug\netcoreapp3.1\Aula01.pdb
+C:\projetos\Curso.Roberto\Aula01\obj\Debug\netcoreapp3.1\Aula01.csproj.AssemblyReference.cache
+C:\projetos\Curso.Roberto\Aula01\obj\Debug\netcoreapp3.1\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Curso.Roberto\Aula01\obj\Debug\netcoreapp3.1\Aula01.AssemblyInfoInputs.cache
+C:\projetos\Curso.Roberto\Aula01\obj\Debug\netcoreapp3.1\Aula01.AssemblyInfo.cs
+C:\projetos\Curso.Roberto\Aula01\obj\Debug\netcoreapp3.1\Aula01.csproj.CoreCompileInputs.cache
+C:\projetos\Curso.Roberto\Aula01\obj\Debug\netcoreapp3.1\Aula01.dll
+C:\projetos\Curso.Roberto\Aula01\obj\Debug\netcoreapp3.1\Aula01.pdb
+C:\projetos\Curso.Roberto\Aula01\obj\Debug\netcoreapp3.1\Aula01.genruntimeconfig.cache
